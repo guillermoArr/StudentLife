@@ -1,2 +1,4 @@
 # StudentLife
-Todo lo que he usado en clases
+Todo lo que he usado en clases en el ITAM 
+
+Guillermo Arredondo
