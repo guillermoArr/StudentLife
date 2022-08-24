@@ -1,0 +1,183 @@
+Podium
+Diag. San Antonio
+Claudia
+Amaya Perez
+PEBA061102MDFxxx 5 olimpica 1630 47
+Vuelta de carro
+suelo extendida A true
+Arco a una
+viga arqueada B true
+Salida de Fly
+barras agrupado C true
+Sirius
+CDMX
+Infantil
+2005 1
+Black
+Aguascalientes
+Infantil
+2006 2
+Mamma Mia
+Cerca de casa
+Junior
+2010 3
+Guillermo Arredondo
+AERG020506HDFxxx 4 tricking 1930 64
+Mortal Atras
+suelo agrupado C false
+Mortal atras con giro
+suelo extendido E false
+Redondilla
+suelo extendido C true
+Estatal Competencia
+Monterrey
+Junior
+2012 5
+Nacional Junior
+Edo. Mex
+Junior Elite
+2018 3
+Olimpiada Nacional
+Chihuahua
+Junior Elite
+2019 2
+Emilia Campos
+CAFM020621MDFxxx 3 ritmica 1430 60
+Rodada adelante
+suelo agrupada A true
+Rodada adelante
+suelo carpado A true
+Rodada atras
+suelo carpado A true
+Colores
+CDMX
+Infantil
+2010 6
+ITAM GYM
+CDMX
+Infantil
+2012 5
+Marvel Inc
+Puebla
+Juvenil Elite
+2013 0
+Santiago Velazquez
+VERS010127HSPxxx 6 ritmica 1900 70
+Parado de manos
+suelo extendido A false
+Rodada al frente
+liston agrupada A true
+Vuelta de carro
+Aro extendida A true
+ITAM GYM
+CDMX
+Juvenil
+2017 18
+KOVACS
+Cancun
+Juvenil
+2015 20
+Sistema Nacional
+Baja California
+Adultos Principiantes
+2020 0
+Daniela Torres
+TODD010113MDFxxx 3 ritmica 1700 60
+Parado de manos
+suelo extendido A false
+Rodada adelante
+suelo agrupada A true
+Rodada adelante
+suelo carpado A true
+Sirius
+CDMX
+Infantil
+2005 1
+Sistema Nacional
+Baja California
+Adultos Principiantes
+2020 12
+Nacional Junior
+Edo. Mex
+Junior Elite
+2018 3
+Natalia Rodriguez
+ROSN011228MDFxxx 10 olimpica 1900 50
+Volapie
+viga extendido D false
+Gigantes
+barras extendido D true
+Tsukahara
+salto extendido E false
+Sistema Nacional
+Baja California
+Adultos Elite
+2020 1
+Nacional Junior
+Edo. Mex
+Junior Elite
+2019 2
+Podium
+CDMX
+FIG
+2019 1
+Regina Medina
+METR020227MDFxxx 2 olimpica 1900 40
+Rodada al frente
+suelo carpado B true
+Gigantes
+barras extendido D true
+Yurchenko
+salto extendido E false
+Sirius
+CDMX
+Infantil
+2005 3
+Sistema Nacional
+Baja California
+Adultos Principiantes
+2020 15
+Nacional Junior
+Edo. Mex
+Junior Elite
+2018 0
+Abraham Chalita
+CANA010126HDFxxx 1 olimpica 1700 73
+Rodada adelante
+suelo agrupada A true
+Rodada adelante
+suelo carpado A true
+Rodada atras
+suelo carpado A true
+Colores
+CDMX
+Infantil
+2010 0
+ITAM GYM
+CDMX
+Infantil
+2012 0
+Marvel Inc
+Puebla
+Juvenil
+2013 0
+Carolina Arredondo
+AERC071206MDFxxx 6 olimpica 1900 48
+Vuelta de carro
+suelo extendida A true
+Arco a una
+viga arqueada B true
+Salida de Fly
+barras agrupado C true
+Ludskanov
+CDMX
+Infantil
+2012 4
+Podium
+CDMX
+Infantil
+2011 3
+UNAM Selectivo
+CDMX
+Infantil
+2014 5
