@@ -1,0 +1,24 @@
+    public static <T> T[] interseccionArreglos2(T[][] mat){
+        return interseccionArreglos2(mat, 0, mat.length);
+    }
+    private static <T> T[] interseccionArreglos2(T[][] mat, int inicio, int fin){
+        if(inicio==fin)
+            return mat[inicio];
+        T[] aux1 = interseccionArreglos2(mat, inicio, fin/2);
+        T[] aux2 = interseccionArreglos2(mat,fin/2+1,fin);
+        return intersecta(aux1, aux2);
+    }
+    private static <T> T[] intersecta(T[] uno, T[] otro){
+        T[] res = (T[]) new Object[uno.length];
+        int j,k=0;
+        T compara;
+        for(int i=0; i<uno.length; i++){
+            compara=uno[i];
+            j=0;
+            while(j<otro.length && !otro[j].equals(compara))
+                j++;
+            if(j!=otro.length)
+                res[k++]=compara;
+        }
+        return res;
+    }
